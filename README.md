@@ -1,2 +1,2 @@
 # SurvivalGames
-SurvivalGames Plugin as example for the GameLib
+SurvivalGames Plugin as example for the GameLib.
