@@ -1,0 +1,10 @@
+name: SurvivalGames
+version: 1.0
+main: de.devcubehd.survivalgames.SurvivalGames
+description: Network SurvivalGames, CloudSystem Compatible
+author: [DevCubeHD]
+depend: [GameLib]
+commands:
+  setup:
+    description: Setup Command
+    permission: survivalgames.setup
